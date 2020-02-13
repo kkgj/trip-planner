@@ -1,0 +1,10 @@
+Chicago@IL@41.0@53.0@87.0@38.0
+Dallas@TX@32.0@51.0@96.0@51.0
+Detroit@MI@42.0@25.0@83.0@1.0
+Houston@TX@29.0@59.0@95.0@22.0
+Los Angeles@CA@33.0@56.0@118.0@24.0
+New York City@NY@40.0@47.0@73.0@58.0
+Philadelphia@PA@39.0@53.0@75.0@15.0
+Phoenix@AZ@33.0@26.0@112.0@1.0
+San Antonio@TX@29.0@32.0@98.0@28.0
+San Diego@CA@32.0@44.0@117.0@10.0
